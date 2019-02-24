@@ -102,7 +102,7 @@ body {
 
 #nodelogo {
 	width: 410px;
-	height: 210px;
+	height: auto;
 	margin-bottom: 35px;
 }
 
